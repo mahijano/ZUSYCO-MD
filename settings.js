@@ -16,9 +16,9 @@ Creator :SAHIL_________KING
 */
 
 module.exports = {
-  OWNER_NUMBER: "923201151138",
+  OWNER_NUMBER: "923474703858",
   SUDO_NUMBERS : "923032311362",
-  OWNER_NAME: "『𝙼𝚁------SAHIL』",
+  OWNER_NAME: "𝙼𝚁------SAHIL",
   BOT_NAME : "SAHIL",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -35,7 +35,7 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '©*☞⃟😈🇸ᴀʜɪʟ 🄺ɪɴɢ 🅾️84* https://whatsapp.com/channel/0029VaFv1RZ3QxRtLXfI993h',
+  CAPTION : '©*☞⃟😈🇸ᴀʜɪʟ 🄺ɪɴɢ 🅾️84*',
   STICKER_PACK : '[*☞⃟😈🇸ᴀʜɪʟ 🄺ɪɴɢ 🅾️84*]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
