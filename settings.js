@@ -17,7 +17,7 @@ Creator :SAHIL_________KING
 
 module.exports = {
   OWNER_NUMBER: "923201151138",
-  SUDO_NUMBERS : "923066376622",
+  SUDO_NUMBERS : "923474703858",
   OWNER_NAME: "𝙼𝚁------SAHIL",
   BOT_NAME : "SAHIL",
   ZUSYCO_FILE : "ZUSYCO-QR",
