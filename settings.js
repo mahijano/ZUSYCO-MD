@@ -16,7 +16,7 @@ Creator :SAHIL_________KING
 */
 
 module.exports = {
-  OWNER_NUMBER: "923201151138",
+  OWNER_NUMBER: "923078283084",
   SUDO_NUMBERS : "923474703858",
   OWNER_NAME: "𝙼𝚁------SAHIL",
   BOT_NAME : "SAHIL",
